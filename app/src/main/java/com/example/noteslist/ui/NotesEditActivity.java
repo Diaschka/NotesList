@@ -1,4 +1,4 @@
-package com.example.noteslist.domain;
+package com.example.noteslist.ui;
 
 import android.app.Activity;
 import android.os.Bundle;

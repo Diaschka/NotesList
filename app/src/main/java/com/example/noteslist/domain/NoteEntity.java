@@ -1,4 +1,4 @@
-package com.example.noteslist.ui;
+package com.example.noteslist.domain;
 
 public class NoteEntity {
     private int noteId;
